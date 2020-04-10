@@ -1,5 +1,5 @@
-# all-about-linear-regression
-Talks all about linear regression modelling, including assumptions, data exploration, training, evaluation and predictions!
+# all-about-linear-regression-with-python
+This tutorial here will explain all about linear regression. Well, not all, but all what you need to know!
 
 ## Topics Covered
 1. Introduction
@@ -11,3 +11,4 @@ Talks all about linear regression modelling, including assumptions, data explora
 7. Evaluation
 8. Conclusion
 
+### Introduction
